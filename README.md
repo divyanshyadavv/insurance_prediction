@@ -1,7 +1,3 @@
-# insurance_prediction
-Basic comparison between different models for insurance charge predction, regression model.
-Here’s a clean, professional example of how you can write your `README.md` file for a GitHub project that involves EDA, traditional ML models (like SVR and Decision Trees), and neural networks:
-
 ---
 
 # Medical Charges Prediction 🏥💰
